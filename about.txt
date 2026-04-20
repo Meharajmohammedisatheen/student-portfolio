@@ -1,2 +1,2 @@
 Hello, I am Meharaj.
-I am learning web development and Java.
+I love coding and problem solving.git add about.txt
